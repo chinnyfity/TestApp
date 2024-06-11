@@ -1,0 +1,1 @@
+../../../../../node_modules/@pushpendersingh/react-native-scanner/ios/ReactNativeScannerView.h
